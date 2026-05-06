@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//angel guadarrama  
 int main() {
     // Declaración de variables
     int edad, reprobadas, faltas;
